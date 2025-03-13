@@ -59,7 +59,7 @@ Signing certificate fingerprint to [verify](https://developer.android.com/studio
 SHA-256: 2071534f0f4b5e54ae952dd275d70da6e3459ee69909d2ab1b4843c4c5b21a45 
 SHA-1: f24e06a3657b190a12671100402df32d7b9b3d36 
 ```
-
+not a very good change
 Wiki
 ----
 View [Wiki](https://github.com/ankidroid/Anki-Android/wiki)
